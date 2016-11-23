@@ -1,11 +1,9 @@
-#form{
+.form{
 	position: absolute;
-	width:500px;
-	height:400px;
-	top:50%;
-	left:50%;
+	height:150px;
+	top:33%;
+	left:19%;
 	margin-top: -200px;
-	margin-left: -250px;
 	background-color: #ccc;
 }
 .drag{
@@ -33,4 +31,13 @@
 	border:none;
 	margin: 0 auto;
 	margin-top: 100px;
+}
+.myborder{
+	border:1px solid #888;
+	height: 350px;
+}
+.rotate30{
+	transform:rotate(10deg);
+	-ms-transform:rotate(10deg); /* IE 9 */
+	-webkit-transform:rotate(10deg); /* Safari and Chrome */
 }
