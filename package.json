@@ -1,5 +1,5 @@
 {
-  "name": "drag",
+  "name": "react-drag",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,18 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LuckyWinty/dragDemo.git"
+    "url": "git+https://github.com/ignaciozhuzhu/simpleDragDemo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LuckyWinty/dragDemo/issues"
+    "url": "https://github.com/ignaciozhuzhu/simpleDragDemo/issues"
   },
-  "homepage": "https://github.com/LuckyWinty/dragDemo#readme",
+  "homepage": "https://github.com/ignaciozhuzhu/simpleDragDemo#readme",
   "devDependencies": {
     "accepts": "^1.3.3",
+    "browser-sync": "^2.18.2",
+    "browserify": "^13.1.1",
     "engine.io-parser": "^1.3.1",
     "gulp": "^3.9.1",
+    "react": "^15.4.1",
     "react-addons": "^0.9.1-deprecated",
     "react-dom": "^15.4.0",
     "reactify": "^1.1.1",
